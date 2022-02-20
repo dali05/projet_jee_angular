@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "name": "Computer",
+      "price": "10",
+      "quantity": "102",
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 15,
+      "name": "samsung",
+      "price": "100",
+      "quantity": "4",
+      "selected": true,
+      "available": null
+    },
+    {
+      "name": "S20",
+      "price": "12",
+      "quantity": "3",
+      "selected": false,
+      "id": 16
+    },
+    {
+      "name": "USER1",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "id": 19
+    }
+  ]
+}
